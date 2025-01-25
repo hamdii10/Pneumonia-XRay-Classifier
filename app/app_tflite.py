@@ -76,6 +76,6 @@ if uploaded_file:
 st.sidebar.header("Contact")
 st.sidebar.write("""
 For questions or suggestions, reach out to:
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
-- **GitHub**: [your_github](https://github.com/your_github)
+- **Email**: ahmed.hamdii.kamal@gmail.com
+- **GitHub**: [your_github](https://github.com/hamdii)
 """)
