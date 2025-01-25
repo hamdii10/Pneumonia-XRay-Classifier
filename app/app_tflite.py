@@ -46,7 +46,7 @@ predict_button = st.button("Predict")
 
 # Prediction logic
 if uploaded_file:
-    st.image(uploaded_file, caption="Uploaded Image", use_column_width=True)
+    st.image(uploaded_file, caption="Uploaded Image", use_container_width=True)
     image = Image.open(uploaded_file)
     
     # Ensure the image is grayscale
