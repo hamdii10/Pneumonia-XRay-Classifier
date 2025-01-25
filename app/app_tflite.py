@@ -77,5 +77,5 @@ st.sidebar.header("Contact")
 st.sidebar.write("""
 For questions or suggestions, reach out to:
 - **Email**: ahmed.hamdii.kamal@gmail.com
-- **GitHub**: [your_github](https://github.com/hamdii)
+- **GitHub**: https://github.com/hamdii
 """)
