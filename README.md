@@ -15,9 +15,8 @@ This repository contains a deep learning-based project designed to detect pneumo
 
 ## Try the App
 
-You can try the live version of this app here: [Pneumonia Detection App](#)  
+You can try the live version of this app here: [Pneumonia Detection App](https://pneumonia-xray-classifier-hamdii.streamlit.app/)  
 
-*(Replace `#` with the actual link once the app is deployed.)*
 
 ## Project Structure
 
